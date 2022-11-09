@@ -1,2 +1,1 @@
-# adventofcode
 # codecademy-fullstack
