@@ -1,0 +1,26 @@
+body {
+  background-color: #faedcd;
+  font-family: monospace, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #d4a373;
+}
+
+h2 { 
+  text-align: justify;
+  color: #ccd5ae;
+
+}
+
+table {
+  border: 2px solid #fefae0 ;
+}
+
+thead {
+  background-color: #fefae0;
+  color: #B5C38A;
+}
+
+
